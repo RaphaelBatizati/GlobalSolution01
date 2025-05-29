@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# GlobalSolutionMS
 =======
 # Global Solution - Microservices e Web Engineering
 
@@ -45,4 +43,3 @@ mvn spring-boot:run
 - API: http://localhost:8080/
 - Swagger: http://localhost:8080/swagger-ui.html
 - H2 Console: http://localhost:8080/h2-console
->>>>>>> 236cc3b (Primeiro commit do projeto GlobalSolution)
